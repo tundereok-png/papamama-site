@@ -49,13 +49,13 @@ hasPR: true
 ## 【予算5,000円前後】いちばん選ばれやすい価格帯
 
 - <a href="https://af.moshimo.com/af/c/click?a_id=5893570&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4975430519797%2F&amp;m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15629842%2F" rel="nofollow sponsored noopener" target="_blank"><strong>投資番付（メガハウス）</strong></a>（楽天市場で見る）：日本おもちゃ大賞2026「ゲーム&パズル部門」大賞。遊びながら**お金や投資の考え方**にふれられるゲームで、メーカー希望小売価格は4,378円（税込）です。高学年や、家族で遊ぶゲームとしておすすめです。
+- <a href="https://af.moshimo.com/af/c/click?a_id=5893570&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyhobbymarket%2F4904810098348%2F&amp;m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyhobbymarket%2Fi%2F10080367%2F" rel="nofollow sponsored noopener" target="_blank"><strong>プラレール 動くぞ！変形！ギガデカドクターイエロー（タカラトミー）</strong></a>（楽天市場で見る）：日本おもちゃ大賞2026「アクション部門」大賞。メーカー希望小売価格は7,480円（税込）です。電車好きの子に。
 - **ブロック系**：レゴなどのブロックは、男の子にも女の子にも人気です。シリーズで集められるのも魅力です。
 - **工作・プログラミングキット**：組み立てて動かすキットは、理科やプログラミングに興味が出てきた子にぴったりです。
 
 ## 【予算1万円以上】特別なプレゼントに
 
 - <a href="https://af.moshimo.com/af/c/click?a_id=5893570&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fitem.rakuten.co.jp%2Fnttxstore%2Fqzx8531%2F&amp;m=http%3A%2F%2Fm.rakuten.co.jp%2Fnttxstore%2Fi%2F10005679%2F" rel="nofollow sponsored noopener" target="_blank"><strong>シルバニアファミリー どきどきアドベンチャーマウンテン（エポック社）</strong></a>（楽天市場で見る）：日本おもちゃ大賞2026「ベーシック部門」大賞。低学年の女の子を中心に人気のシリーズです。
-- <a href="https://af.moshimo.com/af/c/click?a_id=5893570&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyhobbymarket%2F4904810098348%2F&amp;m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyhobbymarket%2Fi%2F10080367%2F" rel="nofollow sponsored noopener" target="_blank"><strong>プラレール 動くぞ！変形！ギガデカドクターイエロー（タカラトミー）</strong></a>（楽天市場で見る）：日本おもちゃ大賞2026「アクション部門」大賞。電車好きの子に。
 - **ゲーム機・ゲームソフト**：やはり人気No.1のジャンル。買う前に、**遊ぶ時間などの家庭のルール**を決めておくと安心です。
 
 ## 失敗しないプレゼント選びのコツ
