@@ -1,0 +1,31 @@
+---
+import SimplePage from '../layouts/SimplePage.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<SimplePage title="このサイトについて" description={`${SITE_TITLE}の運営方針と運営者情報です。`}>
+	<h2>サイトの目的</h2>
+	<p>
+		「{SITE_TITLE}」は、子育て中のご家庭に向けて、毎日の暮らしで「得する」情報をわかりやすくまとめたサイトです。
+	</p>
+	<ul>
+		<li><strong>子供に人気のもの</strong>：おもちゃ・ゲーム・本など、いま子供たちに人気のアイテム</li>
+		<li><strong>お金の知識</strong>：お年玉の管理、児童手当、節約、ポイント活用など</li>
+		<li><strong>AI活用</strong>：家庭や子供の学習に役立つAIツールの使い方</li>
+		<li><strong>話題・季節の情報</strong>：クリスマス、お正月、入学準備などの季節イベント</li>
+	</ul>
+
+	<h2>記事作りの方針</h2>
+	<ul>
+		<li>制度やお金に関する情報は、官公庁などの公式情報をもとに確認しています。</li>
+		<li>記事の作成にはAIツールを活用し、内容の確認を行ったうえで公開しています。</li>
+		<li>特定の金融商品の購入をすすめる記事は掲載しません。</li>
+		<li>情報が古くなった場合は、気づき次第更新します。誤りを見つけた場合はお知らせください。</li>
+	</ul>
+
+	<h2>運営者情報</h2>
+	<ul>
+		<li>サイト名：{SITE_TITLE}</li>
+		<li>運営者：しんや</li>
+	</ul>
+</SimplePage>

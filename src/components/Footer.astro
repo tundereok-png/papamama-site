@@ -1,0 +1,39 @@
+---
+import { SITE_TITLE } from '../consts';
+const today = new Date();
+---
+
+<footer>
+	<p class="pr-note">
+		当サイトはアフィリエイトプログラムを利用しており、記事内の商品リンクから購入された場合に紹介料を受け取ることがあります。
+	</p>
+	<div class="links">
+		<a href="/about">運営者情報</a>
+		<a href="/privacy">プライバシーポリシー・免責事項</a>
+	</div>
+	<p>&copy; {today.getFullYear()} {SITE_TITLE}</p>
+</footer>
+<style>
+	footer {
+		padding: 2em 1em 4em 1em;
+		background: linear-gradient(var(--gray-gradient)) no-repeat;
+		color: rgb(var(--gray));
+		text-align: center;
+		font-size: 0.9em;
+	}
+	.pr-note {
+		max-width: 720px;
+		margin: 0 auto 1em;
+		font-size: 0.85em;
+	}
+	.links {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 1em;
+		margin-bottom: 1em;
+	}
+	.links a {
+		color: rgb(var(--gray));
+	}
+</style>
